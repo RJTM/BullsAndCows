@@ -1,0 +1,28 @@
+{
+  "name": "bulls-and-cows",
+  "version": "1.0.0",
+  "description": "Bulls and Cows game utility",
+  "author": {
+    "email": "rjtm1992@gmail.com",
+    "name": "Ricardo Montero",
+    "url": "rjtm.github.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RJTM/BullsAndCows"
+  },
+  "bugs": {
+    "url": "https://github.com/RJTM/BullsAndCows/issues"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
